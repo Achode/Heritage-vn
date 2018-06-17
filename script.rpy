@@ -256,3 +256,27 @@
 
          return
          #Fade to a nice title card for Week 1 (Chapters/Acts will be called “Weeks”)
+         #Week One title card here
+         {Alarm clock sfx}
+         {Screen fades-in}
+         {Protags room}
+         r "Upon hearing your alarm go off, you decide to wake up. Like every morning, you hit the bathroom, brush your teeth, eat your breakfast so you can go back to your room and do nothing for the rest of the day."
+         r "you've even forgotten what day of the week it is, time doesn't really matter when you are on your break. Once you're done with your morning routine you go back and turn on your computer."
+         {Transition to PT's computer screen}
+         r "Some time pass by while you are checking some social media and it doesn't take long before you find yourself bored. After a few minutes staring into your desktop, you remember
+            about that game you saw a few days ago. That being said, you quickly hop back into Discord."
+         {Transition to Discord bg}
+         r "You enter the game’s server and take a look at some pings you’ve received. Nothing really that important. Right as you were about to enter #General and start typing something, you remember your last time being here, and so, a thought crosses your mind."
+         
+
+
+
+
+
+
+
+
+
+
+
+
